@@ -1,0 +1,6 @@
+Subject: Urgent account verification
+
+Your account will be closed within 24 hours. Sign in to verify your password:
+https://example.invalid/verify
+
+This is a fictional training sample. Do not visit the example address.
